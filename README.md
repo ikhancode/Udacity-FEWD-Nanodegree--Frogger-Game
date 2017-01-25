@@ -1,6 +1,16 @@
-frontend-nanodegree-arcade-game
-===============================
+# **Frogger Game** - Udacity FEND Project
+___
+##### Frogger is a classic arcade game that I made as part as part of Udacity's Front - End Web Developer Nanodegree project.
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+### Getting Started
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Clone or download this project on your computer and open `index.html` on your favourite browser.
+
+### About the game
+The objective of this game is to reach the pond without getting in contact with the bugs running across the pavement. 
+
+##### Controls
+Use `up`, `down`, `left` and `right` arrow keys to *__move__*.
+
+##### Notes
+[Udacity Homepage](https://www.udacity.com/)
