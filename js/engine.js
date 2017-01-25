@@ -90,9 +90,14 @@ var Engine = (function(global) {
      * the data/properties related to the object. Do your drawing in your
      * render methods.
      */
+
     function updateEntities(dt) {
+        var rand = Math.floor(Math.random() * (80 - 50)) + 50;
         allEnemies.forEach(function(enemy) {
-            enemy.update(dt);
+            rand = rand + (Math.floor(Math.random() * (80- 50)) + 50) +
+                          (Math.floor(Math.random() * (80 - 50)) + 50) +
+                          (Math.floor(Math.random() * (80 - 50)) + 50);
+            enemy.update(dt, rand);
         });
         player.update();
     }
