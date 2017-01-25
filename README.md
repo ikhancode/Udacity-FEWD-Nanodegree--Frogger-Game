@@ -1,5 +1,5 @@
 # **Frogger Game** - Udacity FEND Project
-___
+
 ##### Frogger is a classic arcade game that I made as part as part of Udacity's Front - End Web Developer Nanodegree project.
 
 ### Getting Started
